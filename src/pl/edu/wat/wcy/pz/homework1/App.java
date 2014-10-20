@@ -57,6 +57,8 @@ public class App extends JFrame {
 		add(textPanel, BorderLayout.NORTH);
 	}
 	
+	
+	
 	private Random rnd = new Random();
 	private Logger myLogger = Logger.getLogger("Test zapisu!");
 	
